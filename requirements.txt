@@ -1,0 +1,6 @@
+python = 3.6 and above
+jupyter notebook 
+numpy
+pandas
+seaborn
+matplotlib
