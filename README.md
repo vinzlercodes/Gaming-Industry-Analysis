@@ -5,6 +5,8 @@ A Data Analysis of a Video-Game Industry Dataset
 ## Requirements for the project
 The project has been done in the Jupyter enviroment coded in Python (3.8). All the required packages and libraries have been mentioned in requirement.txt for your referal.
 
+The data file would contain 2 files and one of them will have the 'improved' tag, this dataset consists a modified version of the orignal dataset wherein I have searched for the missing publisher column values.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Motivation
 This project was a part of an evaluation assignment of Udacity's Data Scientist Nanodegree. The students were to select a dataset, come up with some questions and answer them through data analysis of the dataset, and post their findings through a blogpost. The dataset I chose is present on [Kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings), representing gaming industry insformation from 1984-2020 in reference to the video-game titles that released. The code answer's the following questions:
