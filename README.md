@@ -22,3 +22,10 @@ The answers to the above questions and my findings can all be found in my blog p
 -----------------------
 ## Licensing, Authors and Acknowledgements
 The orignal data set is by [Gregory Smith](https://www.kaggle.com/gregorut/videogamesales) who had done a web scrape of the [VG Charts](vgchartz.com). Recently [Rush Kiruni](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) took the same dataset and added more columns to it.
+
+---
+
+If you do find this repository useful, why not give a star and even let me know about it!
+
+Feel free to express issues and feedback as well, cheers!
+
